@@ -1,0 +1,710 @@
+TSpaceRocks
+v7
+r0
+t293581856.356243
+cCheck dependencies
+cProcessInfoPlistFile /Users/bsmith/dev/BBTESTAREA/SpaceRocks/build/Debug-iphonesimulator/SpaceRocks.app/Info.plist BBOpenGLGameTemplate-Info.plist
+cCompileXIB /Users/bsmith/dev/BBTESTAREA/SpaceRocks/MainWindow.xib
+cCpResource build/Debug-iphonesimulator/SpaceRocks.app/icon.png icon.png
+cProcessPCH /var/folders/7C/7CJKXIURELu5StaQuKs2f++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BBOpenGLGameTemplate_Prefix-axmovmtpwpwmtpbyxijumjmbdavj/BBOpenGLGameTemplate_Prefix.pch.gch BBOpenGLGameTemplate_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SpaceRocks.build/Debug-iphonesimulator/SpaceRocks.build/Objects-normal/i386/main.o /Users/bsmith/dev/BBTESTAREA/SpaceRocks/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SpaceRocks.build/Debug-iphonesimulator/SpaceRocks.build/Objects-normal/i386/BBOpenGLGameTemplateAppDelegate.o /Users/bsmith/dev/BBTESTAREA/SpaceRocks/Classes/BBOpenGLGameTemplateAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SpaceRocks.build/Debug-iphonesimulator/SpaceRocks.build/Objects-normal/i386/EAGLView.o /Users/bsmith/dev/BBTESTAREA/SpaceRocks/Classes/EAGLView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SpaceRocks.build/Debug-iphonesimulator/SpaceRocks.build/Objects-normal/i386/BBInputViewController.o /Users/bsmith/dev/BBTESTAREA/SpaceRocks/Classes/BBInputViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SpaceRocks.build/Debug-iphonesimulator/SpaceRocks.build/Objects-normal/i386/BBSceneController.o /Users/bsmith/dev/BBTESTAREA/SpaceRocks/Classes/BBSceneController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SpaceRocks.build/Debug-iphonesimulator/SpaceRocks.build/Objects-normal/i386/BBSceneObject.o /Users/bsmith/dev/BBTESTAREA/SpaceRocks/Classes/BBSceneObject.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SpaceRocks.build/Debug-iphonesimulator/SpaceRocks.build/Objects-normal/i386/BBButton.o /Users/bsmith/dev/BBTESTAREA/SpaceRocks/Classes/BBButton.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SpaceRocks.build/Debug-iphonesimulator/SpaceRocks.build/Objects-normal/i386/BBMesh.o /Users/bsmith/dev/BBTESTAREA/SpaceRocks/Classes/BBMesh.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SpaceRocks.build/Debug-iphonesimulator/SpaceRocks.build/Objects-normal/i386/BBSpaceShip.o /Users/bsmith/dev/BBTESTAREA/SpaceRocks/Classes/BBSpaceShip.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SpaceRocks.build/Debug-iphonesimulator/SpaceRocks.build/Objects-normal/i386/BBMobileObject.o /Users/bsmith/dev/BBTESTAREA/SpaceRocks/Classes/BBMobileObject.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SpaceRocks.build/Debug-iphonesimulator/SpaceRocks.build/Objects-normal/i386/BBRock.o /Users/bsmith/dev/BBTESTAREA/SpaceRocks/Classes/BBRock.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SpaceRocks.build/Debug-iphonesimulator/SpaceRocks.build/Objects-normal/i386/BBMissile.o /Users/bsmith/dev/BBTESTAREA/SpaceRocks/Classes/BBMissile.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SpaceRocks.build/Debug-iphonesimulator/SpaceRocks.build/Objects-normal/i386/BBCollisionController.o /Users/bsmith/dev/BBTESTAREA/SpaceRocks/Classes/BBCollisionController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SpaceRocks.build/Debug-iphonesimulator/SpaceRocks.build/Objects-normal/i386/BBCollider.o /Users/bsmith/dev/BBTESTAREA/SpaceRocks/Classes/BBCollider.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SpaceRocks.build/Debug-iphonesimulator/SpaceRocks.build/Objects-normal/i386/BBArrowButton.o /Users/bsmith/dev/BBTESTAREA/SpaceRocks/Classes/BBArrowButton.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/bsmith/dev/BBTESTAREA/SpaceRocks/build/Debug-iphonesimulator/SpaceRocks.app/SpaceRocks normal i386
+cGenerateDSYMFile /Users/bsmith/dev/BBTESTAREA/SpaceRocks/build/Debug-iphonesimulator/SpaceRocks.app.dSYM /Users/bsmith/dev/BBTESTAREA/SpaceRocks/build/Debug-iphonesimulator/SpaceRocks.app/SpaceRocks
+cTouch /Users/bsmith/dev/BBTESTAREA/SpaceRocks/build/Debug-iphonesimulator/SpaceRocks.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk
+c000000004A42E5F300000000000000EE
+t1245898227
+s238
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004A0BAA26000000000026EE80
+t1242278438
+s2551424
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004A0BAB370000000000261F90
+t1242278711
+s2498448
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004A0BAB250000000000001355
+t1242278693
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/EAGL.h
+c000000004A0BAD67000000000000094F
+t1242279271
+s2383
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/EAGLDrawable.h
+c000000004A0BAD670000000000000A61
+t1242279271
+s2657
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/ES1/gl.h
+c000000004A0BAD670000000000009369
+t1242279271
+s37737
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/ES1/glext.h
+c000000004A0BAD670000000000002576
+t1242279271
+s9590
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+c000000004A0BAD70000000000001F0F0
+t1242279280
+s127216
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.h
+c000000004A0BADD7000000000000007D
+t1242279383
+s125
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c000000004A0BAE3400000000000E55E0
+t1242279476
+s939488
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004A0CBEBB000000000000075E
+t1242349243
+s1886
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004A0CBF5F0000000001434100
+t1242349407
+s21184768
+
+N/Users/bsmith/dev/BBTESTAREA/SpaceRocks/BBOpenGLGameTemplate_Prefix.pch
+c000000004A4AC1B700000000000000D1
+t1246413239
+s209
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/bsmith/dev/BBTESTAREA/SpaceRocks/Classes/BBArrowButton.h
+c000000004A52A82700000000000000D2
+t1246930983
+s210
+i"BBButton.h"
+
+N/Users/bsmith/dev/BBTESTAREA/SpaceRocks/Classes/BBArrowButton.m
+c000000004A5AEEB9000000000000043B
+t1247473337
+s1083
+i"BBArrowButton.h"
+
+N/Users/bsmith/dev/BBTESTAREA/SpaceRocks/Classes/BBButton.h
+c000000004A53FB860000000000000232
+t1247017862
+s562
+i"BBSceneObject.h"
+
+N/Users/bsmith/dev/BBTESTAREA/SpaceRocks/Classes/BBButton.m
+c000000004A5546570000000000000AFE
+t1247102551
+s2814
+i"BBButton.h"
+
+N/Users/bsmith/dev/BBTESTAREA/SpaceRocks/Classes/BBCollider.h
+c000000004A52DEC000000000000002D0
+t1246944960
+s720
+i"BBSceneObject.h"
+
+N/Users/bsmith/dev/BBTESTAREA/SpaceRocks/Classes/BBCollider.m
+c000000004A5AE73B0000000000000F43
+t1247471419
+s3907
+i"BBCollider.h"
+i"BBSceneObject.h"
+i"BBMesh.h"
+
+N/Users/bsmith/dev/BBTESTAREA/SpaceRocks/Classes/BBCollisionController.h
+c000000004A52AC2100000000000001CD
+t1246932001
+s461
+i"BBSceneObject.h"
+
+N/Users/bsmith/dev/BBTESTAREA/SpaceRocks/Classes/BBCollisionController.m
+c000000004A5ADA680000000000000692
+t1247468136
+s1682
+i"BBCollisionController.h"
+i"BBMobileObject.h"
+i"BBCollider.h"
+
+N/Users/bsmith/dev/BBTESTAREA/SpaceRocks/Classes/BBConfiguration.h
+c000000004A5AEECF000000000000027B
+t1247473359
+s635
+
+N/Users/bsmith/dev/BBTESTAREA/SpaceRocks/Classes/BBInputViewController.h
+c000000004A554C0700000000000003CB
+t1247104007
+s971
+i<UIKit/UIKit.h>
+
+N/Users/bsmith/dev/BBTESTAREA/SpaceRocks/Classes/BBInputViewController.m
+c000000004A5AEE7F000000000000143C
+t1247473279
+s5180
+i"BBInputViewController.h"
+i"BBButton.h"
+i"BBArrowButton.h"
+
+N/Users/bsmith/dev/BBTESTAREA/SpaceRocks/Classes/BBMesh.h
+c000000004A52A37C0000000000000470
+t1246929788
+s1136
+i<Foundation/Foundation.h>
+i<OpenGLES/EAGL.h>
+i<OpenGLES/ES1/gl.h>
+i<OpenGLES/ES1/glext.h>
+i<QuartzCore/QuartzCore.h>
+i"BBPoint.h"
+
+N/Users/bsmith/dev/BBTESTAREA/SpaceRocks/Classes/BBMesh.m
+c000000004A5ACC2F0000000000000C40
+t1247464495
+s3136
+i"BBMesh.h"
+
+N/Users/bsmith/dev/BBTESTAREA/SpaceRocks/Classes/BBMissile.h
+c000000004A52ACBA00000000000000D8
+t1246932154
+s216
+i"BBMobileObject.h"
+
+N/Users/bsmith/dev/BBTESTAREA/SpaceRocks/Classes/BBMissile.m
+c000000004A554C070000000000000771
+t1247104007
+s1905
+i"BBMissile.h"
+i"BBRock.h"
+i"BBCollider.h"
+
+N/Users/bsmith/dev/BBTESTAREA/SpaceRocks/Classes/BBMobileObject.h
+c000000004A52ACBA0000000000000190
+t1246932154
+s400
+i"BBSceneObject.h"
+
+N/Users/bsmith/dev/BBTESTAREA/SpaceRocks/Classes/BBMobileObject.m
+c000000004A5429AD000000000000046C
+t1247029677
+s1132
+i"BBMobileObject.h"
+
+N/Users/bsmith/dev/BBTESTAREA/SpaceRocks/Classes/BBOpenGLGameTemplateAppDelegate.h
+c000000004A4B05F80000000000000169
+t1246430712
+s361
+i<UIKit/UIKit.h>
+
+N/Users/bsmith/dev/BBTESTAREA/SpaceRocks/Classes/BBOpenGLGameTemplateAppDelegate.m
+c000000004A4D60DA000000000000052B
+t1246585050
+s1323
+i"BBOpenGLGameTemplateAppDelegate.h"
+i"BBInputViewController.h"
+i"EAGLView.h"
+i"BBSceneController.h"
+
+N/Users/bsmith/dev/BBTESTAREA/SpaceRocks/Classes/BBPoint.h
+c000000004A55469B00000000000004DB
+t1247102619
+s1243
+
+N/Users/bsmith/dev/BBTESTAREA/SpaceRocks/Classes/BBRock.h
+c000000004A52ACBA00000000000001DD
+t1246932154
+s477
+i"BBMobileObject.h"
+
+N/Users/bsmith/dev/BBTESTAREA/SpaceRocks/Classes/BBRock.m
+c000000004A5433930000000000001423
+t1247032211
+s5155
+i"BBRock.h"
+i"BBCollider.h"
+
+N/Users/bsmith/dev/BBTESTAREA/SpaceRocks/Classes/BBSceneController.h
+c000000004A51A7FD0000000000000500
+t1246865405
+s1280
+i<Foundation/Foundation.h>
+
+N/Users/bsmith/dev/BBTESTAREA/SpaceRocks/Classes/BBSceneController.m
+c000000004A552152000000000000128B
+t1247093074
+s4747
+i"BBSceneController.h"
+i"BBInputViewController.h"
+i"EAGLView.h"
+i"BBSpaceShip.h"
+i"BBRock.h"
+i"BBCollisionController.h"
+i"BBConfiguration.h"
+
+N/Users/bsmith/dev/BBTESTAREA/SpaceRocks/Classes/BBSceneObject.h
+c000000004B2DA3CF0000000000000449
+t1261282255
+s1097
+i<Foundation/Foundation.h>
+i<OpenGLES/EAGL.h>
+i<OpenGLES/ES1/gl.h>
+i<OpenGLES/ES1/glext.h>
+i<QuartzCore/QuartzCore.h>
+i"BBMesh.h"
+i"BBPoint.h"
+i"BBSceneController.h"
+i"BBInputViewController.h"
+i"BBPoint.h"
+i"BBConfiguration.h"
+
+N/Users/bsmith/dev/BBTESTAREA/SpaceRocks/Classes/BBSceneObject.m
+c000000004A53F9EB00000000000008D4
+t1247017451
+s2260
+i"BBSceneObject.h"
+i"BBSceneController.h"
+i"BBInputViewController.h"
+i"BBCollider.h"
+
+N/Users/bsmith/dev/BBTESTAREA/SpaceRocks/Classes/BBSpaceShip.h
+c000000004A554C0700000000000000F1
+t1247104007
+s241
+i"BBMobileObject.h"
+
+N/Users/bsmith/dev/BBTESTAREA/SpaceRocks/Classes/BBSpaceShip.m
+c000000004A73953B0000000000000CC9
+t1249088827
+s3273
+i"BBSpaceShip.h"
+i"BBMissile.h"
+i"BBRock.h"
+i"BBCollider.h"
+
+N/Users/bsmith/dev/BBTESTAREA/SpaceRocks/Classes/EAGLView.h
+c000000004A52A2430000000000000442
+t1246929475
+s1090
+i<UIKit/UIKit.h>
+i<OpenGLES/EAGL.h>
+i<OpenGLES/ES1/gl.h>
+i<OpenGLES/ES1/glext.h>
+
+N/Users/bsmith/dev/BBTESTAREA/SpaceRocks/Classes/EAGLView.m
+c000000004B2DA2F500000000000015FC
+t1261282037
+s5628
+i<QuartzCore/QuartzCore.h>
+i<OpenGLES/EAGLDrawable.h>
+i"EAGLView.h"
+
+N/Users/bsmith/dev/BBTESTAREA/SpaceRocks/MainWindow.xib
+c000000004A4AC1B70000000000001F5B
+t1246413239
+s8027
+
+N/Users/bsmith/dev/BBTESTAREA/SpaceRocks/build/Debug-iphonesimulator/SpaceRocks.app
+t1271889056
+s238
+
+N/Users/bsmith/dev/BBTESTAREA/SpaceRocks/build/Debug-iphonesimulator/SpaceRocks.app.dSYM
+t1271889056
+s102
+
+N/Users/bsmith/dev/BBTESTAREA/SpaceRocks/build/Debug-iphonesimulator/SpaceRocks.app/Info.plist
+t1271889052
+s663
+
+N/Users/bsmith/dev/BBTESTAREA/SpaceRocks/build/Debug-iphonesimulator/SpaceRocks.app/MainWindow.nib
+t1271889054
+s1342
+
+N/Users/bsmith/dev/BBTESTAREA/SpaceRocks/build/Debug-iphonesimulator/SpaceRocks.app/PkgInfo
+t1271889052
+s8
+
+N/Users/bsmith/dev/BBTESTAREA/SpaceRocks/build/Debug-iphonesimulator/SpaceRocks.app/SpaceRocks
+t1271889056
+s91052
+
+N/Users/bsmith/dev/BBTESTAREA/SpaceRocks/build/Debug-iphonesimulator/SpaceRocks.app/icon.png
+t1271889053
+s360
+
+N/Users/bsmith/dev/BBTESTAREA/SpaceRocks/build/SpaceRocks.build/Debug-iphonesimulator/SpaceRocks.build/Objects-normal/i386/BBArrowButton.o
+t1271889056
+s8940
+
+N/Users/bsmith/dev/BBTESTAREA/SpaceRocks/build/SpaceRocks.build/Debug-iphonesimulator/SpaceRocks.build/Objects-normal/i386/BBButton.o
+t1271889055
+s42900
+
+N/Users/bsmith/dev/BBTESTAREA/SpaceRocks/build/SpaceRocks.build/Debug-iphonesimulator/SpaceRocks.build/Objects-normal/i386/BBCollider.o
+t1271889056
+s18956
+
+N/Users/bsmith/dev/BBTESTAREA/SpaceRocks/build/SpaceRocks.build/Debug-iphonesimulator/SpaceRocks.build/Objects-normal/i386/BBCollisionController.o
+t1271889056
+s13032
+
+N/Users/bsmith/dev/BBTESTAREA/SpaceRocks/build/SpaceRocks.build/Debug-iphonesimulator/SpaceRocks.build/Objects-normal/i386/BBInputViewController.o
+t1271889055
+s50768
+
+N/Users/bsmith/dev/BBTESTAREA/SpaceRocks/build/SpaceRocks.build/Debug-iphonesimulator/SpaceRocks.build/Objects-normal/i386/BBMesh.o
+t1271889055
+s20304
+
+N/Users/bsmith/dev/BBTESTAREA/SpaceRocks/build/SpaceRocks.build/Debug-iphonesimulator/SpaceRocks.build/Objects-normal/i386/BBMissile.o
+t1271889056
+s34848
+
+N/Users/bsmith/dev/BBTESTAREA/SpaceRocks/build/SpaceRocks.build/Debug-iphonesimulator/SpaceRocks.build/Objects-normal/i386/BBMobileObject.o
+t1271889055
+s12716
+
+N/Users/bsmith/dev/BBTESTAREA/SpaceRocks/build/SpaceRocks.build/Debug-iphonesimulator/SpaceRocks.build/Objects-normal/i386/BBOpenGLGameTemplateAppDelegate.o
+t1271889055
+s39652
+
+N/Users/bsmith/dev/BBTESTAREA/SpaceRocks/build/SpaceRocks.build/Debug-iphonesimulator/SpaceRocks.build/Objects-normal/i386/BBRock.o
+t1271889056
+s44108
+
+N/Users/bsmith/dev/BBTESTAREA/SpaceRocks/build/SpaceRocks.build/Debug-iphonesimulator/SpaceRocks.build/Objects-normal/i386/BBSceneController.o
+t1271889055
+s45744
+
+N/Users/bsmith/dev/BBTESTAREA/SpaceRocks/build/SpaceRocks.build/Debug-iphonesimulator/SpaceRocks.build/Objects-normal/i386/BBSceneObject.o
+t1271889055
+s19612
+
+N/Users/bsmith/dev/BBTESTAREA/SpaceRocks/build/SpaceRocks.build/Debug-iphonesimulator/SpaceRocks.build/Objects-normal/i386/BBSpaceShip.o
+t1271889055
+s38936
+
+N/Users/bsmith/dev/BBTESTAREA/SpaceRocks/build/SpaceRocks.build/Debug-iphonesimulator/SpaceRocks.build/Objects-normal/i386/EAGLView.o
+t1271889055
+s21112
+
+N/Users/bsmith/dev/BBTESTAREA/SpaceRocks/build/SpaceRocks.build/Debug-iphonesimulator/SpaceRocks.build/Objects-normal/i386/SpaceRocks.LinkFileList
+c000000004BCF7C9C0000000000000813
+t1271889052
+s2067
+
+N/Users/bsmith/dev/BBTESTAREA/SpaceRocks/build/SpaceRocks.build/Debug-iphonesimulator/SpaceRocks.build/Objects-normal/i386/main.o
+t1271889055
+s5944
+
+N/Users/bsmith/dev/BBTESTAREA/SpaceRocks/icon.png
+c000000004A52A7350000000000000168
+t1246930741
+s360
+
+N/Users/bsmith/dev/BBTESTAREA/SpaceRocks/main.m
+c000000004A51B5020000000000000173
+t1246868738
+s371
+i<UIKit/UIKit.h>
+
+N/var/folders/7C/7CJKXIURELu5StaQuKs2f++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BBOpenGLGameTemplate_Prefix-axmovmtpwpwmtpbyxijumjmbdavj/BBOpenGLGameTemplate_Prefix.pch.gch
+t1271889055
+s12952976
+
+NBBOpenGLGameTemplate-Info.plist
+c000000004A52A74D00000000000003BB
+t1246930765
+s955
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies293581852#293581852#0(0"0(0#1#0"4300911832#0"0#
+
+CCompileC build/SpaceRocks.build/Debug-iphonesimulator/SpaceRocks.build/Objects-normal/i386/BBArrowButton.o /Users/bsmith/dev/BBTESTAREA/SpaceRocks/Classes/BBArrowButton.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s293581855.940987
+e293581856.038888
+r1
+xCompileC
+xbuild/SpaceRocks.build/Debug-iphonesimulator/SpaceRocks.build/Objects-normal/i386/BBArrowButton.o
+x/Users/bsmith/dev/BBTESTAREA/SpaceRocks/Classes/BBArrowButton.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@71"Compile /Users/bsmith/dev/BBTESTAREA/SpaceRocks/Classes/BBArrowButton.m293581855#293581856#0(0"0(0#0#63"/Users/bsmith/dev/BBTESTAREA/SpaceRocks/Classes/BBArrowButton.m4300911832#1974"    cd /Users/bsmith/dev/BBTESTAREA/SpaceRocks    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/bsmith/dev/BBTESTAREA/SpaceRocks/build/SpaceRocks.build/Debug-iphonesimulator/SpaceRocks.build/SpaceRocks-generated-files.hmap -I/Users/bsmith/dev/BBTESTAREA/SpaceRocks/build/SpaceRocks.build/Debug-iphonesimulator/SpaceRocks.build/SpaceRocks-own-target-headers.hmap -I/Users/bsmith/dev/BBTESTAREA/SpaceRocks/build/SpaceRocks.build/Debug-iphonesimulator/SpaceRocks.build/SpaceRocks-all-target-headers.hmap -iquote /Users/bsmith/dev/BBTESTAREA/SpaceRocks/build/SpaceRocks.build/Debug-iphonesimulator/SpaceRocks.build/SpaceRocks-project-headers.hmap -F/Users/bsmith/dev/BBTESTAREA/SpaceRocks/build/Debug-iphonesimulator -I/Users/bsmith/dev/BBTESTAREA/SpaceRocks/build/Debug-iphonesimulator/include -I/Users/bsmith/dev/BBTESTAREA/SpaceRocks/build/SpaceRocks.build/Debug-iphonesimulator/SpaceRocks.build/DerivedSources/i386 -I/Users/bsmith/dev/BBTESTAREA/SpaceRocks/build/SpaceRocks.build/Debug-iphonesimulator/SpaceRocks.build/DerivedSources -include /var/folders/7C/7CJKXIURELu5StaQuKs2f++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BBOpenGLGameTemplate_Prefix-axmovmtpwpwmtpbyxijumjmbdavj/BBOpenGLGameTemplate_Prefix.pch -c /Users/bsmith/dev/BBTESTAREA/SpaceRocks/Classes/BBArrowButton.m -o /Users/bsmith/dev/BBTESTAREA/SpaceRocks/build/SpaceRocks.build/Debug-iphonesimulator/SpaceRocks.build/Objects-normal/i386/BBArrowButton.o0#
+
+CCompileC build/SpaceRocks.build/Debug-iphonesimulator/SpaceRocks.build/Objects-normal/i386/BBButton.o /Users/bsmith/dev/BBTESTAREA/SpaceRocks/Classes/BBButton.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s293581855.664349
+e293581855.933878
+r1
+xCompileC
+xbuild/SpaceRocks.build/Debug-iphonesimulator/SpaceRocks.build/Objects-normal/i386/BBButton.o
+x/Users/bsmith/dev/BBTESTAREA/SpaceRocks/Classes/BBButton.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@66"Compile /Users/bsmith/dev/BBTESTAREA/SpaceRocks/Classes/BBButton.m293581855#293581855#0(0"0(0#0#58"/Users/bsmith/dev/BBTESTAREA/SpaceRocks/Classes/BBButton.m4300911832#1964"    cd /Users/bsmith/dev/BBTESTAREA/SpaceRocks    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/bsmith/dev/BBTESTAREA/SpaceRocks/build/SpaceRocks.build/Debug-iphonesimulator/SpaceRocks.build/SpaceRocks-generated-files.hmap -I/Users/bsmith/dev/BBTESTAREA/SpaceRocks/build/SpaceRocks.build/Debug-iphonesimulator/SpaceRocks.build/SpaceRocks-own-target-headers.hmap -I/Users/bsmith/dev/BBTESTAREA/SpaceRocks/build/SpaceRocks.build/Debug-iphonesimulator/SpaceRocks.build/SpaceRocks-all-target-headers.hmap -iquote /Users/bsmith/dev/BBTESTAREA/SpaceRocks/build/SpaceRocks.build/Debug-iphonesimulator/SpaceRocks.build/SpaceRocks-project-headers.hmap -F/Users/bsmith/dev/BBTESTAREA/SpaceRocks/build/Debug-iphonesimulator -I/Users/bsmith/dev/BBTESTAREA/SpaceRocks/build/Debug-iphonesimulator/include -I/Users/bsmith/dev/BBTESTAREA/SpaceRocks/build/SpaceRocks.build/Debug-iphonesimulator/SpaceRocks.build/DerivedSources/i386 -I/Users/bsmith/dev/BBTESTAREA/SpaceRocks/build/SpaceRocks.build/Debug-iphonesimulator/SpaceRocks.build/DerivedSources -include /var/folders/7C/7CJKXIURELu5StaQuKs2f++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BBOpenGLGameTemplate_Prefix-axmovmtpwpwmtpbyxijumjmbdavj/BBOpenGLGameTemplate_Prefix.pch -c /Users/bsmith/dev/BBTESTAREA/SpaceRocks/Classes/BBButton.m -o /Users/bsmith/dev/BBTESTAREA/SpaceRocks/build/SpaceRocks.build/Debug-iphonesimulator/SpaceRocks.build/Objects-normal/i386/BBButton.o0#
+
+CCompileC build/SpaceRocks.build/Debug-iphonesimulator/SpaceRocks.build/Objects-normal/i386/BBCollider.o /Users/bsmith/dev/BBTESTAREA/SpaceRocks/Classes/BBCollider.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s293581855.934009
+e293581856.039396
+r1
+xCompileC
+xbuild/SpaceRocks.build/Debug-iphonesimulator/SpaceRocks.build/Objects-normal/i386/BBCollider.o
+x/Users/bsmith/dev/BBTESTAREA/SpaceRocks/Classes/BBCollider.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@68"Compile /Users/bsmith/dev/BBTESTAREA/SpaceRocks/Classes/BBCollider.m293581855#293581856#0(0"0(0#0#60"/Users/bsmith/dev/BBTESTAREA/SpaceRocks/Classes/BBCollider.m4300911832#1968"    cd /Users/bsmith/dev/BBTESTAREA/SpaceRocks    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/bsmith/dev/BBTESTAREA/SpaceRocks/build/SpaceRocks.build/Debug-iphonesimulator/SpaceRocks.build/SpaceRocks-generated-files.hmap -I/Users/bsmith/dev/BBTESTAREA/SpaceRocks/build/SpaceRocks.build/Debug-iphonesimulator/SpaceRocks.build/SpaceRocks-own-target-headers.hmap -I/Users/bsmith/dev/BBTESTAREA/SpaceRocks/build/SpaceRocks.build/Debug-iphonesimulator/SpaceRocks.build/SpaceRocks-all-target-headers.hmap -iquote /Users/bsmith/dev/BBTESTAREA/SpaceRocks/build/SpaceRocks.build/Debug-iphonesimulator/SpaceRocks.build/SpaceRocks-project-headers.hmap -F/Users/bsmith/dev/BBTESTAREA/SpaceRocks/build/Debug-iphonesimulator -I/Users/bsmith/dev/BBTESTAREA/SpaceRocks/build/Debug-iphonesimulator/include -I/Users/bsmith/dev/BBTESTAREA/SpaceRocks/build/SpaceRocks.build/Debug-iphonesimulator/SpaceRocks.build/DerivedSources/i386 -I/Users/bsmith/dev/BBTESTAREA/SpaceRocks/build/SpaceRocks.build/Debug-iphonesimulator/SpaceRocks.build/DerivedSources -include /var/folders/7C/7CJKXIURELu5StaQuKs2f++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BBOpenGLGameTemplate_Prefix-axmovmtpwpwmtpbyxijumjmbdavj/BBOpenGLGameTemplate_Prefix.pch -c /Users/bsmith/dev/BBTESTAREA/SpaceRocks/Classes/BBCollider.m -o /Users/bsmith/dev/BBTESTAREA/SpaceRocks/build/SpaceRocks.build/Debug-iphonesimulator/SpaceRocks.build/Objects-normal/i386/BBCollider.o0#
+
+CCompileC build/SpaceRocks.build/Debug-iphonesimulator/SpaceRocks.build/Objects-normal/i386/BBCollisionController.o /Users/bsmith/dev/BBTESTAREA/SpaceRocks/Classes/BBCollisionController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s293581855.930440
+e293581856.039571
+r1
+xCompileC
+xbuild/SpaceRocks.build/Debug-iphonesimulator/SpaceRocks.build/Objects-normal/i386/BBCollisionController.o
+x/Users/bsmith/dev/BBTESTAREA/SpaceRocks/Classes/BBCollisionController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/bsmith/dev/BBTESTAREA/SpaceRocks/Classes/BBCollisionController.m: In function '-[BBCollisionController handleCollisions]':
+o/Users/bsmith/dev/BBTESTAREA/SpaceRocks/Classes/BBCollisionController.m:39: warning: 'BBSceneObject' may not respond to '-didCollideWith:'
+o/Users/bsmith/dev/BBTESTAREA/SpaceRocks/Classes/BBCollisionController.m:39: warning: (Messages without a matching method signature
+o/Users/bsmith/dev/BBTESTAREA/SpaceRocks/Classes/BBCollisionController.m:39: warning: will be assumed to return 'id' and accept
+o/Users/bsmith/dev/BBTESTAREA/SpaceRocks/Classes/BBCollisionController.m:39: warning: '...' as arguments.)
+lSLF07#2@79"Compile /Users/bsmith/dev/BBTESTAREA/SpaceRocks/Classes/BBCollisionController.m293581855#293581856#0(633"/Users/bsmith/dev/BBTESTAREA/SpaceRocks/Classes/BBCollisionController.m: In function '-[BBCollisionController handleCollisions]':/Users/bsmith/dev/BBTESTAREA/SpaceRocks/Classes/BBCollisionController.m:39: warning: 'BBSceneObject' may not respond to '-didCollideWith:'/Users/bsmith/dev/BBTESTAREA/SpaceRocks/Classes/BBCollisionController.m:39: warning: (Messages without a matching method signature/Users/bsmith/dev/BBTESTAREA/SpaceRocks/Classes/BBCollisionController.m:39: warning: will be assumed to return 'id' and accept/Users/bsmith/dev/BBTESTAREA/SpaceRocks/Classes/BBCollisionController.m:39: warning: '...' as arguments.)2(22@53"'BBSceneObject' may not respond to '-didCollideWith:'293581855#130#139#0(6@71"/Users/bsmith/dev/BBTESTAREA/SpaceRocks/Classes/BBCollisionController.m269160936#39#0#39#0#26"'*' may not respond to '*'0(13@108"(Messages without a matching method signature will be assumed to return 'id' and accept '...' as arguments.)293581855#269#131#0(6@71"/Users/bsmith/dev/BBTESTAREA/SpaceRocks/Classes/BBCollisionController.m269160936#39#0#39#0#0"0(0#0#71"/Users/bsmith/dev/BBTESTAREA/SpaceRocks/Classes/BBCollisionController.m4300911832#1990"    cd /Users/bsmith/dev/BBTESTAREA/SpaceRocks    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/bsmith/dev/BBTESTAREA/SpaceRocks/build/SpaceRocks.build/Debug-iphonesimulator/SpaceRocks.build/SpaceRocks-generated-files.hmap -I/Users/bsmith/dev/BBTESTAREA/SpaceRocks/build/SpaceRocks.build/Debug-iphonesimulator/SpaceRocks.build/SpaceRocks-own-target-headers.hmap -I/Users/bsmith/dev/BBTESTAREA/SpaceRocks/build/SpaceRocks.build/Debug-iphonesimulator/SpaceRocks.build/SpaceRocks-all-target-headers.hmap -iquote /Users/bsmith/dev/BBTESTAREA/SpaceRocks/build/SpaceRocks.build/Debug-iphonesimulator/SpaceRocks.build/SpaceRocks-project-headers.hmap -F/Users/bsmith/dev/BBTESTAREA/SpaceRocks/build/Debug-iphonesimulator -I/Users/bsmith/dev/BBTESTAREA/SpaceRocks/build/Debug-iphonesimulator/include -I/Users/bsmith/dev/BBTESTAREA/SpaceRocks/build/SpaceRocks.build/Debug-iphonesimulator/SpaceRocks.build/DerivedSources/i386 -I/Users/bsmith/dev/BBTESTAREA/SpaceRocks/build/SpaceRocks.build/Debug-iphonesimulator/SpaceRocks.build/DerivedSources -include /var/folders/7C/7CJKXIURELu5StaQuKs2f++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BBOpenGLGameTemplate_Prefix-axmovmtpwpwmtpbyxijumjmbdavj/BBOpenGLGameTemplate_Prefix.pch -c /Users/bsmith/dev/BBTESTAREA/SpaceRocks/Classes/BBCollisionController.m -o /Users/bsmith/dev/BBTESTAREA/SpaceRocks/build/SpaceRocks.build/Debug-iphonesimulator/SpaceRocks.build/Objects-normal/i386/BBCollisionController.o0#
+
+CCompileC build/SpaceRocks.build/Debug-iphonesimulator/SpaceRocks.build/Objects-normal/i386/BBInputViewController.o /Users/bsmith/dev/BBTESTAREA/SpaceRocks/Classes/BBInputViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s293581855.661741
+e293581855.949522
+r1
+xCompileC
+xbuild/SpaceRocks.build/Debug-iphonesimulator/SpaceRocks.build/Objects-normal/i386/BBInputViewController.o
+x/Users/bsmith/dev/BBTESTAREA/SpaceRocks/Classes/BBInputViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@79"Compile /Users/bsmith/dev/BBTESTAREA/SpaceRocks/Classes/BBInputViewController.m293581855#293581855#0(0"0(0#0#71"/Users/bsmith/dev/BBTESTAREA/SpaceRocks/Classes/BBInputViewController.m4300911832#1990"    cd /Users/bsmith/dev/BBTESTAREA/SpaceRocks    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/bsmith/dev/BBTESTAREA/SpaceRocks/build/SpaceRocks.build/Debug-iphonesimulator/SpaceRocks.build/SpaceRocks-generated-files.hmap -I/Users/bsmith/dev/BBTESTAREA/SpaceRocks/build/SpaceRocks.build/Debug-iphonesimulator/SpaceRocks.build/SpaceRocks-own-target-headers.hmap -I/Users/bsmith/dev/BBTESTAREA/SpaceRocks/build/SpaceRocks.build/Debug-iphonesimulator/SpaceRocks.build/SpaceRocks-all-target-headers.hmap -iquote /Users/bsmith/dev/BBTESTAREA/SpaceRocks/build/SpaceRocks.build/Debug-iphonesimulator/SpaceRocks.build/SpaceRocks-project-headers.hmap -F/Users/bsmith/dev/BBTESTAREA/SpaceRocks/build/Debug-iphonesimulator -I/Users/bsmith/dev/BBTESTAREA/SpaceRocks/build/Debug-iphonesimulator/include -I/Users/bsmith/dev/BBTESTAREA/SpaceRocks/build/SpaceRocks.build/Debug-iphonesimulator/SpaceRocks.build/DerivedSources/i386 -I/Users/bsmith/dev/BBTESTAREA/SpaceRocks/build/SpaceRocks.build/Debug-iphonesimulator/SpaceRocks.build/DerivedSources -include /var/folders/7C/7CJKXIURELu5StaQuKs2f++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BBOpenGLGameTemplate_Prefix-axmovmtpwpwmtpbyxijumjmbdavj/BBOpenGLGameTemplate_Prefix.pch -c /Users/bsmith/dev/BBTESTAREA/SpaceRocks/Classes/BBInputViewController.m -o /Users/bsmith/dev/BBTESTAREA/SpaceRocks/build/SpaceRocks.build/Debug-iphonesimulator/SpaceRocks.build/Objects-normal/i386/BBInputViewController.o0#
+
+CCompileC build/SpaceRocks.build/Debug-iphonesimulator/SpaceRocks.build/Objects-normal/i386/BBMesh.o /Users/bsmith/dev/BBTESTAREA/SpaceRocks/Classes/BBMesh.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s293581855.665272
+e293581855.930317
+r1
+xCompileC
+xbuild/SpaceRocks.build/Debug-iphonesimulator/SpaceRocks.build/Objects-normal/i386/BBMesh.o
+x/Users/bsmith/dev/BBTESTAREA/SpaceRocks/Classes/BBMesh.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@64"Compile /Users/bsmith/dev/BBTESTAREA/SpaceRocks/Classes/BBMesh.m293581855#293581855#0(0"0(0#0#56"/Users/bsmith/dev/BBTESTAREA/SpaceRocks/Classes/BBMesh.m4300911832#1960"    cd /Users/bsmith/dev/BBTESTAREA/SpaceRocks    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/bsmith/dev/BBTESTAREA/SpaceRocks/build/SpaceRocks.build/Debug-iphonesimulator/SpaceRocks.build/SpaceRocks-generated-files.hmap -I/Users/bsmith/dev/BBTESTAREA/SpaceRocks/build/SpaceRocks.build/Debug-iphonesimulator/SpaceRocks.build/SpaceRocks-own-target-headers.hmap -I/Users/bsmith/dev/BBTESTAREA/SpaceRocks/build/SpaceRocks.build/Debug-iphonesimulator/SpaceRocks.build/SpaceRocks-all-target-headers.hmap -iquote /Users/bsmith/dev/BBTESTAREA/SpaceRocks/build/SpaceRocks.build/Debug-iphonesimulator/SpaceRocks.build/SpaceRocks-project-headers.hmap -F/Users/bsmith/dev/BBTESTAREA/SpaceRocks/build/Debug-iphonesimulator -I/Users/bsmith/dev/BBTESTAREA/SpaceRocks/build/Debug-iphonesimulator/include -I/Users/bsmith/dev/BBTESTAREA/SpaceRocks/build/SpaceRocks.build/Debug-iphonesimulator/SpaceRocks.build/DerivedSources/i386 -I/Users/bsmith/dev/BBTESTAREA/SpaceRocks/build/SpaceRocks.build/Debug-iphonesimulator/SpaceRocks.build/DerivedSources -include /var/folders/7C/7CJKXIURELu5StaQuKs2f++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BBOpenGLGameTemplate_Prefix-axmovmtpwpwmtpbyxijumjmbdavj/BBOpenGLGameTemplate_Prefix.pch -c /Users/bsmith/dev/BBTESTAREA/SpaceRocks/Classes/BBMesh.m -o /Users/bsmith/dev/BBTESTAREA/SpaceRocks/build/SpaceRocks.build/Debug-iphonesimulator/SpaceRocks.build/Objects-normal/i386/BBMesh.o0#
+
+CCompileC build/SpaceRocks.build/Debug-iphonesimulator/SpaceRocks.build/Objects-normal/i386/BBMissile.o /Users/bsmith/dev/BBTESTAREA/SpaceRocks/Classes/BBMissile.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s293581855.920602
+e293581856.039173
+r1
+xCompileC
+xbuild/SpaceRocks.build/Debug-iphonesimulator/SpaceRocks.build/Objects-normal/i386/BBMissile.o
+x/Users/bsmith/dev/BBTESTAREA/SpaceRocks/Classes/BBMissile.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@67"Compile /Users/bsmith/dev/BBTESTAREA/SpaceRocks/Classes/BBMissile.m293581855#293581856#0(0"0(0#0#59"/Users/bsmith/dev/BBTESTAREA/SpaceRocks/Classes/BBMissile.m4300911832#1966"    cd /Users/bsmith/dev/BBTESTAREA/SpaceRocks    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/bsmith/dev/BBTESTAREA/SpaceRocks/build/SpaceRocks.build/Debug-iphonesimulator/SpaceRocks.build/SpaceRocks-generated-files.hmap -I/Users/bsmith/dev/BBTESTAREA/SpaceRocks/build/SpaceRocks.build/Debug-iphonesimulator/SpaceRocks.build/SpaceRocks-own-target-headers.hmap -I/Users/bsmith/dev/BBTESTAREA/SpaceRocks/build/SpaceRocks.build/Debug-iphonesimulator/SpaceRocks.build/SpaceRocks-all-target-headers.hmap -iquote /Users/bsmith/dev/BBTESTAREA/SpaceRocks/build/SpaceRocks.build/Debug-iphonesimulator/SpaceRocks.build/SpaceRocks-project-headers.hmap -F/Users/bsmith/dev/BBTESTAREA/SpaceRocks/build/Debug-iphonesimulator -I/Users/bsmith/dev/BBTESTAREA/SpaceRocks/build/Debug-iphonesimulator/include -I/Users/bsmith/dev/BBTESTAREA/SpaceRocks/build/SpaceRocks.build/Debug-iphonesimulator/SpaceRocks.build/DerivedSources/i386 -I/Users/bsmith/dev/BBTESTAREA/SpaceRocks/build/SpaceRocks.build/Debug-iphonesimulator/SpaceRocks.build/DerivedSources -include /var/folders/7C/7CJKXIURELu5StaQuKs2f++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BBOpenGLGameTemplate_Prefix-axmovmtpwpwmtpbyxijumjmbdavj/BBOpenGLGameTemplate_Prefix.pch -c /Users/bsmith/dev/BBTESTAREA/SpaceRocks/Classes/BBMissile.m -o /Users/bsmith/dev/BBTESTAREA/SpaceRocks/build/SpaceRocks.build/Debug-iphonesimulator/SpaceRocks.build/Objects-normal/i386/BBMissile.o0#
+
+CCompileC build/SpaceRocks.build/Debug-iphonesimulator/SpaceRocks.build/Objects-normal/i386/BBMobileObject.o /Users/bsmith/dev/BBTESTAREA/SpaceRocks/Classes/BBMobileObject.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s293581855.878525
+e293581855.985080
+r1
+xCompileC
+xbuild/SpaceRocks.build/Debug-iphonesimulator/SpaceRocks.build/Objects-normal/i386/BBMobileObject.o
+x/Users/bsmith/dev/BBTESTAREA/SpaceRocks/Classes/BBMobileObject.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@72"Compile /Users/bsmith/dev/BBTESTAREA/SpaceRocks/Classes/BBMobileObject.m293581855#293581855#0(0"0(0#0#64"/Users/bsmith/dev/BBTESTAREA/SpaceRocks/Classes/BBMobileObject.m4300911832#1976"    cd /Users/bsmith/dev/BBTESTAREA/SpaceRocks    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/bsmith/dev/BBTESTAREA/SpaceRocks/build/SpaceRocks.build/Debug-iphonesimulator/SpaceRocks.build/SpaceRocks-generated-files.hmap -I/Users/bsmith/dev/BBTESTAREA/SpaceRocks/build/SpaceRocks.build/Debug-iphonesimulator/SpaceRocks.build/SpaceRocks-own-target-headers.hmap -I/Users/bsmith/dev/BBTESTAREA/SpaceRocks/build/SpaceRocks.build/Debug-iphonesimulator/SpaceRocks.build/SpaceRocks-all-target-headers.hmap -iquote /Users/bsmith/dev/BBTESTAREA/SpaceRocks/build/SpaceRocks.build/Debug-iphonesimulator/SpaceRocks.build/SpaceRocks-project-headers.hmap -F/Users/bsmith/dev/BBTESTAREA/SpaceRocks/build/Debug-iphonesimulator -I/Users/bsmith/dev/BBTESTAREA/SpaceRocks/build/Debug-iphonesimulator/include -I/Users/bsmith/dev/BBTESTAREA/SpaceRocks/build/SpaceRocks.build/Debug-iphonesimulator/SpaceRocks.build/DerivedSources/i386 -I/Users/bsmith/dev/BBTESTAREA/SpaceRocks/build/SpaceRocks.build/Debug-iphonesimulator/SpaceRocks.build/DerivedSources -include /var/folders/7C/7CJKXIURELu5StaQuKs2f++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BBOpenGLGameTemplate_Prefix-axmovmtpwpwmtpbyxijumjmbdavj/BBOpenGLGameTemplate_Prefix.pch -c /Users/bsmith/dev/BBTESTAREA/SpaceRocks/Classes/BBMobileObject.m -o /Users/bsmith/dev/BBTESTAREA/SpaceRocks/build/SpaceRocks.build/Debug-iphonesimulator/SpaceRocks.build/Objects-normal/i386/BBMobileObject.o0#
+
+CCompileC build/SpaceRocks.build/Debug-iphonesimulator/SpaceRocks.build/Objects-normal/i386/BBOpenGLGameTemplateAppDelegate.o /Users/bsmith/dev/BBTESTAREA/SpaceRocks/Classes/BBOpenGLGameTemplateAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s293581855.660038
+e293581855.878401
+r1
+xCompileC
+xbuild/SpaceRocks.build/Debug-iphonesimulator/SpaceRocks.build/Objects-normal/i386/BBOpenGLGameTemplateAppDelegate.o
+x/Users/bsmith/dev/BBTESTAREA/SpaceRocks/Classes/BBOpenGLGameTemplateAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@89"Compile /Users/bsmith/dev/BBTESTAREA/SpaceRocks/Classes/BBOpenGLGameTemplateAppDelegate.m293581855#293581855#0(0"0(0#0#81"/Users/bsmith/dev/BBTESTAREA/SpaceRocks/Classes/BBOpenGLGameTemplateAppDelegate.m4300911832#2010"    cd /Users/bsmith/dev/BBTESTAREA/SpaceRocks    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/bsmith/dev/BBTESTAREA/SpaceRocks/build/SpaceRocks.build/Debug-iphonesimulator/SpaceRocks.build/SpaceRocks-generated-files.hmap -I/Users/bsmith/dev/BBTESTAREA/SpaceRocks/build/SpaceRocks.build/Debug-iphonesimulator/SpaceRocks.build/SpaceRocks-own-target-headers.hmap -I/Users/bsmith/dev/BBTESTAREA/SpaceRocks/build/SpaceRocks.build/Debug-iphonesimulator/SpaceRocks.build/SpaceRocks-all-target-headers.hmap -iquote /Users/bsmith/dev/BBTESTAREA/SpaceRocks/build/SpaceRocks.build/Debug-iphonesimulator/SpaceRocks.build/SpaceRocks-project-headers.hmap -F/Users/bsmith/dev/BBTESTAREA/SpaceRocks/build/Debug-iphonesimulator -I/Users/bsmith/dev/BBTESTAREA/SpaceRocks/build/Debug-iphonesimulator/include -I/Users/bsmith/dev/BBTESTAREA/SpaceRocks/build/SpaceRocks.build/Debug-iphonesimulator/SpaceRocks.build/DerivedSources/i386 -I/Users/bsmith/dev/BBTESTAREA/SpaceRocks/build/SpaceRocks.build/Debug-iphonesimulator/SpaceRocks.build/DerivedSources -include /var/folders/7C/7CJKXIURELu5StaQuKs2f++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BBOpenGLGameTemplate_Prefix-axmovmtpwpwmtpbyxijumjmbdavj/BBOpenGLGameTemplate_Prefix.pch -c /Users/bsmith/dev/BBTESTAREA/SpaceRocks/Classes/BBOpenGLGameTemplateAppDelegate.m -o /Users/bsmith/dev/BBTESTAREA/SpaceRocks/build/SpaceRocks.build/Debug-iphonesimulator/SpaceRocks.build/Objects-normal/i386/BBOpenGLGameTemplateAppDelegate.o0#
+
+CCompileC build/SpaceRocks.build/Debug-iphonesimulator/SpaceRocks.build/Objects-normal/i386/BBRock.o /Users/bsmith/dev/BBTESTAREA/SpaceRocks/Classes/BBRock.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s293581855.912790
+e293581856.039775
+r1
+xCompileC
+xbuild/SpaceRocks.build/Debug-iphonesimulator/SpaceRocks.build/Objects-normal/i386/BBRock.o
+x/Users/bsmith/dev/BBTESTAREA/SpaceRocks/Classes/BBRock.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@64"Compile /Users/bsmith/dev/BBTESTAREA/SpaceRocks/Classes/BBRock.m293581855#293581856#0(0"0(0#0#56"/Users/bsmith/dev/BBTESTAREA/SpaceRocks/Classes/BBRock.m4300911832#1960"    cd /Users/bsmith/dev/BBTESTAREA/SpaceRocks    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/bsmith/dev/BBTESTAREA/SpaceRocks/build/SpaceRocks.build/Debug-iphonesimulator/SpaceRocks.build/SpaceRocks-generated-files.hmap -I/Users/bsmith/dev/BBTESTAREA/SpaceRocks/build/SpaceRocks.build/Debug-iphonesimulator/SpaceRocks.build/SpaceRocks-own-target-headers.hmap -I/Users/bsmith/dev/BBTESTAREA/SpaceRocks/build/SpaceRocks.build/Debug-iphonesimulator/SpaceRocks.build/SpaceRocks-all-target-headers.hmap -iquote /Users/bsmith/dev/BBTESTAREA/SpaceRocks/build/SpaceRocks.build/Debug-iphonesimulator/SpaceRocks.build/SpaceRocks-project-headers.hmap -F/Users/bsmith/dev/BBTESTAREA/SpaceRocks/build/Debug-iphonesimulator -I/Users/bsmith/dev/BBTESTAREA/SpaceRocks/build/Debug-iphonesimulator/include -I/Users/bsmith/dev/BBTESTAREA/SpaceRocks/build/SpaceRocks.build/Debug-iphonesimulator/SpaceRocks.build/DerivedSources/i386 -I/Users/bsmith/dev/BBTESTAREA/SpaceRocks/build/SpaceRocks.build/Debug-iphonesimulator/SpaceRocks.build/DerivedSources -include /var/folders/7C/7CJKXIURELu5StaQuKs2f++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BBOpenGLGameTemplate_Prefix-axmovmtpwpwmtpbyxijumjmbdavj/BBOpenGLGameTemplate_Prefix.pch -c /Users/bsmith/dev/BBTESTAREA/SpaceRocks/Classes/BBRock.m -o /Users/bsmith/dev/BBTESTAREA/SpaceRocks/build/SpaceRocks.build/Debug-iphonesimulator/SpaceRocks.build/Objects-normal/i386/BBRock.o0#
+
+CCompileC build/SpaceRocks.build/Debug-iphonesimulator/SpaceRocks.build/Objects-normal/i386/BBSceneController.o /Users/bsmith/dev/BBTESTAREA/SpaceRocks/Classes/BBSceneController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s293581855.662567
+e293581855.940703
+r1
+xCompileC
+xbuild/SpaceRocks.build/Debug-iphonesimulator/SpaceRocks.build/Objects-normal/i386/BBSceneController.o
+x/Users/bsmith/dev/BBTESTAREA/SpaceRocks/Classes/BBSceneController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@75"Compile /Users/bsmith/dev/BBTESTAREA/SpaceRocks/Classes/BBSceneController.m293581855#293581855#0(0"0(0#0#67"/Users/bsmith/dev/BBTESTAREA/SpaceRocks/Classes/BBSceneController.m4300911832#1982"    cd /Users/bsmith/dev/BBTESTAREA/SpaceRocks    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/bsmith/dev/BBTESTAREA/SpaceRocks/build/SpaceRocks.build/Debug-iphonesimulator/SpaceRocks.build/SpaceRocks-generated-files.hmap -I/Users/bsmith/dev/BBTESTAREA/SpaceRocks/build/SpaceRocks.build/Debug-iphonesimulator/SpaceRocks.build/SpaceRocks-own-target-headers.hmap -I/Users/bsmith/dev/BBTESTAREA/SpaceRocks/build/SpaceRocks.build/Debug-iphonesimulator/SpaceRocks.build/SpaceRocks-all-target-headers.hmap -iquote /Users/bsmith/dev/BBTESTAREA/SpaceRocks/build/SpaceRocks.build/Debug-iphonesimulator/SpaceRocks.build/SpaceRocks-project-headers.hmap -F/Users/bsmith/dev/BBTESTAREA/SpaceRocks/build/Debug-iphonesimulator -I/Users/bsmith/dev/BBTESTAREA/SpaceRocks/build/Debug-iphonesimulator/include -I/Users/bsmith/dev/BBTESTAREA/SpaceRocks/build/SpaceRocks.build/Debug-iphonesimulator/SpaceRocks.build/DerivedSources/i386 -I/Users/bsmith/dev/BBTESTAREA/SpaceRocks/build/SpaceRocks.build/Debug-iphonesimulator/SpaceRocks.build/DerivedSources -include /var/folders/7C/7CJKXIURELu5StaQuKs2f++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BBOpenGLGameTemplate_Prefix-axmovmtpwpwmtpbyxijumjmbdavj/BBOpenGLGameTemplate_Prefix.pch -c /Users/bsmith/dev/BBTESTAREA/SpaceRocks/Classes/BBSceneController.m -o /Users/bsmith/dev/BBTESTAREA/SpaceRocks/build/SpaceRocks.build/Debug-iphonesimulator/SpaceRocks.build/Objects-normal/i386/BBSceneController.o0#
+
+CCompileC build/SpaceRocks.build/Debug-iphonesimulator/SpaceRocks.build/Objects-normal/i386/BBSceneObject.o /Users/bsmith/dev/BBTESTAREA/SpaceRocks/Classes/BBSceneObject.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s293581855.663414
+e293581855.912653
+r1
+xCompileC
+xbuild/SpaceRocks.build/Debug-iphonesimulator/SpaceRocks.build/Objects-normal/i386/BBSceneObject.o
+x/Users/bsmith/dev/BBTESTAREA/SpaceRocks/Classes/BBSceneObject.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@71"Compile /Users/bsmith/dev/BBTESTAREA/SpaceRocks/Classes/BBSceneObject.m293581855#293581855#0(0"0(0#0#63"/Users/bsmith/dev/BBTESTAREA/SpaceRocks/Classes/BBSceneObject.m4300911832#1974"    cd /Users/bsmith/dev/BBTESTAREA/SpaceRocks    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/bsmith/dev/BBTESTAREA/SpaceRocks/build/SpaceRocks.build/Debug-iphonesimulator/SpaceRocks.build/SpaceRocks-generated-files.hmap -I/Users/bsmith/dev/BBTESTAREA/SpaceRocks/build/SpaceRocks.build/Debug-iphonesimulator/SpaceRocks.build/SpaceRocks-own-target-headers.hmap -I/Users/bsmith/dev/BBTESTAREA/SpaceRocks/build/SpaceRocks.build/Debug-iphonesimulator/SpaceRocks.build/SpaceRocks-all-target-headers.hmap -iquote /Users/bsmith/dev/BBTESTAREA/SpaceRocks/build/SpaceRocks.build/Debug-iphonesimulator/SpaceRocks.build/SpaceRocks-project-headers.hmap -F/Users/bsmith/dev/BBTESTAREA/SpaceRocks/build/Debug-iphonesimulator -I/Users/bsmith/dev/BBTESTAREA/SpaceRocks/build/Debug-iphonesimulator/include -I/Users/bsmith/dev/BBTESTAREA/SpaceRocks/build/SpaceRocks.build/Debug-iphonesimulator/SpaceRocks.build/DerivedSources/i386 -I/Users/bsmith/dev/BBTESTAREA/SpaceRocks/build/SpaceRocks.build/Debug-iphonesimulator/SpaceRocks.build/DerivedSources -include /var/folders/7C/7CJKXIURELu5StaQuKs2f++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BBOpenGLGameTemplate_Prefix-axmovmtpwpwmtpbyxijumjmbdavj/BBOpenGLGameTemplate_Prefix.pch -c /Users/bsmith/dev/BBTESTAREA/SpaceRocks/Classes/BBSceneObject.m -o /Users/bsmith/dev/BBTESTAREA/SpaceRocks/build/SpaceRocks.build/Debug-iphonesimulator/SpaceRocks.build/Objects-normal/i386/BBSceneObject.o0#
+
+CCompileC build/SpaceRocks.build/Debug-iphonesimulator/SpaceRocks.build/Objects-normal/i386/BBSpaceShip.o /Users/bsmith/dev/BBTESTAREA/SpaceRocks/Classes/BBSpaceShip.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s293581855.864805
+e293581855.979871
+r1
+xCompileC
+xbuild/SpaceRocks.build/Debug-iphonesimulator/SpaceRocks.build/Objects-normal/i386/BBSpaceShip.o
+x/Users/bsmith/dev/BBTESTAREA/SpaceRocks/Classes/BBSpaceShip.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@69"Compile /Users/bsmith/dev/BBTESTAREA/SpaceRocks/Classes/BBSpaceShip.m293581855#293581855#0(0"0(0#0#61"/Users/bsmith/dev/BBTESTAREA/SpaceRocks/Classes/BBSpaceShip.m4300911832#1970"    cd /Users/bsmith/dev/BBTESTAREA/SpaceRocks    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/bsmith/dev/BBTESTAREA/SpaceRocks/build/SpaceRocks.build/Debug-iphonesimulator/SpaceRocks.build/SpaceRocks-generated-files.hmap -I/Users/bsmith/dev/BBTESTAREA/SpaceRocks/build/SpaceRocks.build/Debug-iphonesimulator/SpaceRocks.build/SpaceRocks-own-target-headers.hmap -I/Users/bsmith/dev/BBTESTAREA/SpaceRocks/build/SpaceRocks.build/Debug-iphonesimulator/SpaceRocks.build/SpaceRocks-all-target-headers.hmap -iquote /Users/bsmith/dev/BBTESTAREA/SpaceRocks/build/SpaceRocks.build/Debug-iphonesimulator/SpaceRocks.build/SpaceRocks-project-headers.hmap -F/Users/bsmith/dev/BBTESTAREA/SpaceRocks/build/Debug-iphonesimulator -I/Users/bsmith/dev/BBTESTAREA/SpaceRocks/build/Debug-iphonesimulator/include -I/Users/bsmith/dev/BBTESTAREA/SpaceRocks/build/SpaceRocks.build/Debug-iphonesimulator/SpaceRocks.build/DerivedSources/i386 -I/Users/bsmith/dev/BBTESTAREA/SpaceRocks/build/SpaceRocks.build/Debug-iphonesimulator/SpaceRocks.build/DerivedSources -include /var/folders/7C/7CJKXIURELu5StaQuKs2f++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BBOpenGLGameTemplate_Prefix-axmovmtpwpwmtpbyxijumjmbdavj/BBOpenGLGameTemplate_Prefix.pch -c /Users/bsmith/dev/BBTESTAREA/SpaceRocks/Classes/BBSpaceShip.m -o /Users/bsmith/dev/BBTESTAREA/SpaceRocks/build/SpaceRocks.build/Debug-iphonesimulator/SpaceRocks.build/Objects-normal/i386/BBSpaceShip.o0#
+
+CCompileC build/SpaceRocks.build/Debug-iphonesimulator/SpaceRocks.build/Objects-normal/i386/EAGLView.o /Users/bsmith/dev/BBTESTAREA/SpaceRocks/Classes/EAGLView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s293581855.660908
+e293581855.920444
+r1
+xCompileC
+xbuild/SpaceRocks.build/Debug-iphonesimulator/SpaceRocks.build/Objects-normal/i386/EAGLView.o
+x/Users/bsmith/dev/BBTESTAREA/SpaceRocks/Classes/EAGLView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@66"Compile /Users/bsmith/dev/BBTESTAREA/SpaceRocks/Classes/EAGLView.m293581855#293581855#0(0"0(0#0#58"/Users/bsmith/dev/BBTESTAREA/SpaceRocks/Classes/EAGLView.m4300911832#1964"    cd /Users/bsmith/dev/BBTESTAREA/SpaceRocks    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/bsmith/dev/BBTESTAREA/SpaceRocks/build/SpaceRocks.build/Debug-iphonesimulator/SpaceRocks.build/SpaceRocks-generated-files.hmap -I/Users/bsmith/dev/BBTESTAREA/SpaceRocks/build/SpaceRocks.build/Debug-iphonesimulator/SpaceRocks.build/SpaceRocks-own-target-headers.hmap -I/Users/bsmith/dev/BBTESTAREA/SpaceRocks/build/SpaceRocks.build/Debug-iphonesimulator/SpaceRocks.build/SpaceRocks-all-target-headers.hmap -iquote /Users/bsmith/dev/BBTESTAREA/SpaceRocks/build/SpaceRocks.build/Debug-iphonesimulator/SpaceRocks.build/SpaceRocks-project-headers.hmap -F/Users/bsmith/dev/BBTESTAREA/SpaceRocks/build/Debug-iphonesimulator -I/Users/bsmith/dev/BBTESTAREA/SpaceRocks/build/Debug-iphonesimulator/include -I/Users/bsmith/dev/BBTESTAREA/SpaceRocks/build/SpaceRocks.build/Debug-iphonesimulator/SpaceRocks.build/DerivedSources/i386 -I/Users/bsmith/dev/BBTESTAREA/SpaceRocks/build/SpaceRocks.build/Debug-iphonesimulator/SpaceRocks.build/DerivedSources -include /var/folders/7C/7CJKXIURELu5StaQuKs2f++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BBOpenGLGameTemplate_Prefix-axmovmtpwpwmtpbyxijumjmbdavj/BBOpenGLGameTemplate_Prefix.pch -c /Users/bsmith/dev/BBTESTAREA/SpaceRocks/Classes/EAGLView.m -o /Users/bsmith/dev/BBTESTAREA/SpaceRocks/build/SpaceRocks.build/Debug-iphonesimulator/SpaceRocks.build/Objects-normal/i386/EAGLView.o0#
+
+CCompileC build/SpaceRocks.build/Debug-iphonesimulator/SpaceRocks.build/Objects-normal/i386/main.o /Users/bsmith/dev/BBTESTAREA/SpaceRocks/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s293581855.658840
+e293581855.864685
+r1
+xCompileC
+xbuild/SpaceRocks.build/Debug-iphonesimulator/SpaceRocks.build/Objects-normal/i386/main.o
+x/Users/bsmith/dev/BBTESTAREA/SpaceRocks/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@54"Compile /Users/bsmith/dev/BBTESTAREA/SpaceRocks/main.m293581855#293581855#0(0"0(0#0#46"/Users/bsmith/dev/BBTESTAREA/SpaceRocks/main.m4300911832#1948"    cd /Users/bsmith/dev/BBTESTAREA/SpaceRocks    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/bsmith/dev/BBTESTAREA/SpaceRocks/build/SpaceRocks.build/Debug-iphonesimulator/SpaceRocks.build/SpaceRocks-generated-files.hmap -I/Users/bsmith/dev/BBTESTAREA/SpaceRocks/build/SpaceRocks.build/Debug-iphonesimulator/SpaceRocks.build/SpaceRocks-own-target-headers.hmap -I/Users/bsmith/dev/BBTESTAREA/SpaceRocks/build/SpaceRocks.build/Debug-iphonesimulator/SpaceRocks.build/SpaceRocks-all-target-headers.hmap -iquote /Users/bsmith/dev/BBTESTAREA/SpaceRocks/build/SpaceRocks.build/Debug-iphonesimulator/SpaceRocks.build/SpaceRocks-project-headers.hmap -F/Users/bsmith/dev/BBTESTAREA/SpaceRocks/build/Debug-iphonesimulator -I/Users/bsmith/dev/BBTESTAREA/SpaceRocks/build/Debug-iphonesimulator/include -I/Users/bsmith/dev/BBTESTAREA/SpaceRocks/build/SpaceRocks.build/Debug-iphonesimulator/SpaceRocks.build/DerivedSources/i386 -I/Users/bsmith/dev/BBTESTAREA/SpaceRocks/build/SpaceRocks.build/Debug-iphonesimulator/SpaceRocks.build/DerivedSources -include /var/folders/7C/7CJKXIURELu5StaQuKs2f++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BBOpenGLGameTemplate_Prefix-axmovmtpwpwmtpbyxijumjmbdavj/BBOpenGLGameTemplate_Prefix.pch -c /Users/bsmith/dev/BBTESTAREA/SpaceRocks/main.m -o /Users/bsmith/dev/BBTESTAREA/SpaceRocks/build/SpaceRocks.build/Debug-iphonesimulator/SpaceRocks.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/bsmith/dev/BBTESTAREA/SpaceRocks/MainWindow.xib
+s293581852.930177
+e293581854.666540
+r1
+xCompileXIB
+x/Users/bsmith/dev/BBTESTAREA/SpaceRocks/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib293581852#293581854#0(0"0(0#0#54"/Users/bsmith/dev/BBTESTAREA/SpaceRocks/MainWindow.xib4300911832#486"    cd /Users/bsmith/dev/BBTESTAREA/SpaceRocks    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/bsmith/dev/BBTESTAREA/SpaceRocks/build/Debug-iphonesimulator/SpaceRocks.app/MainWindow.nib /Users/bsmith/dev/BBTESTAREA/SpaceRocks/MainWindow.xib0#
+
+CCpResource build/Debug-iphonesimulator/SpaceRocks.app/icon.png icon.png
+s293581852.931693
+e293581853.002312
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/SpaceRocks.app/icon.png
+xicon.png
+lSLF07#2@13"Copy icon.png293581852#293581853#0(0"0(0#0#48"/Users/bsmith/dev/BBTESTAREA/SpaceRocks/icon.png4300911832#458"    cd /Users/bsmith/dev/BBTESTAREA/SpaceRocks    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/bsmith/dev/BBTESTAREA/SpaceRocks/icon.png /Users/bsmith/dev/BBTESTAREA/SpaceRocks/build/Debug-iphonesimulator/SpaceRocks.app0#
+
+CGenerateDSYMFile /Users/bsmith/dev/BBTESTAREA/SpaceRocks/build/Debug-iphonesimulator/SpaceRocks.app.dSYM /Users/bsmith/dev/BBTESTAREA/SpaceRocks/build/Debug-iphonesimulator/SpaceRocks.app/SpaceRocks
+s293581856.330477
+e293581856.353435
+r1
+xGenerateDSYMFile
+x/Users/bsmith/dev/BBTESTAREA/SpaceRocks/build/Debug-iphonesimulator/SpaceRocks.app.dSYM
+x/Users/bsmith/dev/BBTESTAREA/SpaceRocks/build/Debug-iphonesimulator/SpaceRocks.app/SpaceRocks
+lSLF07#2@118"GenerateDSYMFile build/Debug-iphonesimulator/SpaceRocks.app.dSYM build/Debug-iphonesimulator/SpaceRocks.app/SpaceRocks293581856#293581856#0(0"0(0#0#93"/Users/bsmith/dev/BBTESTAREA/SpaceRocks/build/Debug-iphonesimulator/SpaceRocks.app/SpaceRocks4300911832#395"    cd /Users/bsmith/dev/BBTESTAREA/SpaceRocks    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/bsmith/dev/BBTESTAREA/SpaceRocks/build/Debug-iphonesimulator/SpaceRocks.app/SpaceRocks -o /Users/bsmith/dev/BBTESTAREA/SpaceRocks/build/Debug-iphonesimulator/SpaceRocks.app.dSYM0#
+
+CLd /Users/bsmith/dev/BBTESTAREA/SpaceRocks/build/Debug-iphonesimulator/SpaceRocks.app/SpaceRocks normal i386
+s293581856.039838
+e293581856.330249
+r1
+xLd
+x/Users/bsmith/dev/BBTESTAREA/SpaceRocks/build/Debug-iphonesimulator/SpaceRocks.app/SpaceRocks
+xnormal
+xi386
+lSLF07#2@98"Link /Users/bsmith/dev/BBTESTAREA/SpaceRocks/build/Debug-iphonesimulator/SpaceRocks.app/SpaceRocks293581856#293581856#0(0"0(0#0#0"4300911832#924"    cd /Users/bsmith/dev/BBTESTAREA/SpaceRocks    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -L/Users/bsmith/dev/BBTESTAREA/SpaceRocks/build/Debug-iphonesimulator -F/Users/bsmith/dev/BBTESTAREA/SpaceRocks/build/Debug-iphonesimulator -filelist /Users/bsmith/dev/BBTESTAREA/SpaceRocks/build/SpaceRocks.build/Debug-iphonesimulator/SpaceRocks.build/Objects-normal/i386/SpaceRocks.LinkFileList -mmacosx-version-min=10.5 -framework Foundation -framework UIKit -framework CoreGraphics -framework OpenGLES -framework QuartzCore -o /Users/bsmith/dev/BBTESTAREA/SpaceRocks/build/Debug-iphonesimulator/SpaceRocks.app/SpaceRocks0#
+
+CProcessInfoPlistFile /Users/bsmith/dev/BBTESTAREA/SpaceRocks/build/Debug-iphonesimulator/SpaceRocks.app/Info.plist BBOpenGLGameTemplate-Info.plist
+s293581852.925220
+e293581852.930098
+r1
+xProcessInfoPlistFile
+x/Users/bsmith/dev/BBTESTAREA/SpaceRocks/build/Debug-iphonesimulator/SpaceRocks.app/Info.plist
+xBBOpenGLGameTemplate-Info.plist
+lSLF07#2@39"Process BBOpenGLGameTemplate-Info.plist293581852#293581852#0(0"0(0#0#71"/Users/bsmith/dev/BBTESTAREA/SpaceRocks/BBOpenGLGameTemplate-Info.plist4300911832#501"    cd /Users/bsmith/dev/BBTESTAREA/SpaceRocks    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility BBOpenGLGameTemplate-Info.plist -genpkginfo /Users/bsmith/dev/BBTESTAREA/SpaceRocks/build/Debug-iphonesimulator/SpaceRocks.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/bsmith/dev/BBTESTAREA/SpaceRocks/build/Debug-iphonesimulator/SpaceRocks.app/Info.plist0#
+
+CProcessPCH /var/folders/7C/7CJKXIURELu5StaQuKs2f++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BBOpenGLGameTemplate_Prefix-axmovmtpwpwmtpbyxijumjmbdavj/BBOpenGLGameTemplate_Prefix.pch.gch BBOpenGLGameTemplate_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s293581854.666855
+e293581855.658714
+r1
+xProcessPCH
+x/var/folders/7C/7CJKXIURELu5StaQuKs2f++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BBOpenGLGameTemplate_Prefix-axmovmtpwpwmtpbyxijumjmbdavj/BBOpenGLGameTemplate_Prefix.pch.gch
+xBBOpenGLGameTemplate_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@42"Precompile BBOpenGLGameTemplate_Prefix.pch293581854#293581855#0(0"0(0#0#71"/Users/bsmith/dev/BBTESTAREA/SpaceRocks/BBOpenGLGameTemplate_Prefix.pch4300911832#1846"    cd /Users/bsmith/dev/BBTESTAREA/SpaceRocks    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/bsmith/dev/BBTESTAREA/SpaceRocks/build/SpaceRocks.build/Debug-iphonesimulator/SpaceRocks.build/SpaceRocks-generated-files.hmap -I/Users/bsmith/dev/BBTESTAREA/SpaceRocks/build/SpaceRocks.build/Debug-iphonesimulator/SpaceRocks.build/SpaceRocks-own-target-headers.hmap -I/Users/bsmith/dev/BBTESTAREA/SpaceRocks/build/SpaceRocks.build/Debug-iphonesimulator/SpaceRocks.build/SpaceRocks-all-target-headers.hmap -iquote /Users/bsmith/dev/BBTESTAREA/SpaceRocks/build/SpaceRocks.build/Debug-iphonesimulator/SpaceRocks.build/SpaceRocks-project-headers.hmap -F/Users/bsmith/dev/BBTESTAREA/SpaceRocks/build/Debug-iphonesimulator -I/Users/bsmith/dev/BBTESTAREA/SpaceRocks/build/Debug-iphonesimulator/include -I/Users/bsmith/dev/BBTESTAREA/SpaceRocks/build/SpaceRocks.build/Debug-iphonesimulator/SpaceRocks.build/DerivedSources/i386 -I/Users/bsmith/dev/BBTESTAREA/SpaceRocks/build/SpaceRocks.build/Debug-iphonesimulator/SpaceRocks.build/DerivedSources -c /Users/bsmith/dev/BBTESTAREA/SpaceRocks/BBOpenGLGameTemplate_Prefix.pch -o /var/folders/7C/7CJKXIURELu5StaQuKs2f++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BBOpenGLGameTemplate_Prefix-axmovmtpwpwmtpbyxijumjmbdavj/BBOpenGLGameTemplate_Prefix.pch.gch0#
+
+CTouch /Users/bsmith/dev/BBTESTAREA/SpaceRocks/build/Debug-iphonesimulator/SpaceRocks.app
+s293581856.353512
+e293581856.356218
+r1
+xTouch
+x/Users/bsmith/dev/BBTESTAREA/SpaceRocks/build/Debug-iphonesimulator/SpaceRocks.app
+lSLF07#2@88"Touch /Users/bsmith/dev/BBTESTAREA/SpaceRocks/build/Debug-iphonesimulator/SpaceRocks.app293581856#293581856#0(0"0(0#0#0"4300911832#283"    cd /Users/bsmith/dev/BBTESTAREA/SpaceRocks    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/bsmith/dev/BBTESTAREA/SpaceRocks/build/Debug-iphonesimulator/SpaceRocks.app0#
+
